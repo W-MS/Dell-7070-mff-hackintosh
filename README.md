@@ -1,5 +1,5 @@
 # Dell-7070-mff-hackintosh  
-Dell-7070-mff黑苹果OpenCore引导 所有硬件均工作 iMessage自行添加 网卡更换DW1560  
+Dell Optiplex 7070 Micro 黑苹果OpenCore引导 所有硬件均工作 iMessage自行添加 网卡更换DW1560  
   
 硬件  
 处理器：Intel Core i5-9500t  
